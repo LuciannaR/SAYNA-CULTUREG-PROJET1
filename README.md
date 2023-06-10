@@ -7,3 +7,4 @@
 - Réseaux sociaux
 - Classements commenté
 - Dernières téchnologies
+- Entrâinement base internet
